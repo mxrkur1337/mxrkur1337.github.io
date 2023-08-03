@@ -1,1 +1,1 @@
-#myownsite
+mxrkur falan ıste oyle
