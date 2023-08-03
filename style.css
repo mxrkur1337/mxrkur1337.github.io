@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ba60889-62e3-480b-b1a4-3b7f949fe0cb/df5py0l-22160cb0-c8ec-42e6-bfde-1a59b802a4f7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiYTYwODg5LTYyZTMtNDgwYi1iMWE0LTNiN2Y5NDlmZTBjYlwvZGY1cHkwbC0yMjE2MGNiMC1jOGVjLTQyZTYtYmZkZS0xYTU5YjgwMmE0ZjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zms6ZP6ZHL_iTEFXMI8fDLozRmgGRWNRHKWK66R3YB4");
+  background-repeat : no-repeat;
+  background-position : center center;
+  background-attachment : fixed;
+  background-size : cover;
+}
+div {
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  font-weight: 800;
+}
+div span {
+  font-size: 22vw;
+  text-shadow: -0.08em 0.03em 0.12em rgba(0, 0, 0, 0.7);
+}
+div span:not(:first-child) {
+  margin-left: -0.18em;
+}
